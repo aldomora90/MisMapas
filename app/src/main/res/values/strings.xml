@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MisMapas</string>
+    <string name="irmapas">Ir a mis mapas</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="titleApp">AgsMaps</string>
+</resources>
